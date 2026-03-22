@@ -23,3 +23,7 @@
 📫 Connect with Me
 
 - LinkedIn: (https://www.linkedin.com/in/mansoor-shafi-431ab224b)
+
+---
+
+GitHub stats
