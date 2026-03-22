@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Mansoor Shafi
 
-<!--
-**mansoor-shafi/mansoor-shafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student (2022–2026)
+💻 Python | Machine Learning | Web Developer
+🚀 Passionate about building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Skills
+
+- Python, C, C++, JavaScript
+- Machine Learning, Data Analysis
+- HTML, CSS, Web Development
+
+---
+
+📂 Projects
+
+- 🏠 House Price Prediction (Machine Learning)
+
+---
+
+📫 Connect with Me
+
+- LinkedIn: (https://www.linkedin.com/in/mansoor-shafi-431ab224b)
