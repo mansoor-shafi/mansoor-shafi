@@ -16,7 +16,8 @@
 
 📂 Projects
 
-- 🏠 House Price Prediction (Machine Learning)
+- House Price Prediction (Machine Learning)
+- Costumer Segmentation
 
 ---
 
